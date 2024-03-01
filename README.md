@@ -29,23 +29,11 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://flutter.dev/">Flutter</a></li>
-    <li><a href="https://bloclibrary.dev/#/">Bloc State Manager</a></li>
+    <li><a href="https://chornthorn.github.io/getx-docs/">Getx State Manager</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://nodejs.org/en">Node.js</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
+
 
 
