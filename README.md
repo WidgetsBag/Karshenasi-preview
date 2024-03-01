@@ -2,7 +2,8 @@
 <div align="center">
 
   <img src="https://amazone-clone.storage.iran.liara.space/judge.png" alt="logo" width="200" height="auto" />
-  <h1>Shopping App</h1>
+  <h1>Judicatory expert wage calculator</h1>
+  <h1>This App Calculate the wage of Judicatory experts base on the last regulation of the year </h1>
   
   
 
@@ -16,12 +17,9 @@
 ### :camera: Screenshots
 
 <div align="center"> 
- <img src="https://amazone-clone.storage.iran.liara.space/Shop%20App%20user%20-%20Copy.png" alt="screenshot" />
+ <img src="https://amazone-clone.storage.iran.liara.space/karshenasi.png" alt="screenshot" />
 </div>
-<p style="font-size: 0;">&nbsp;</p>
-<div align="center"> 
- <img src="https://amazone-clone.storage.iran.liara.space/Shop%20app%20admin%20-%20Copy.png" alt="screenshot" />
-</div>
+
 
 
 <!-- TechStack -->
